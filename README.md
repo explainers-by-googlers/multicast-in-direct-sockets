@@ -1,11 +1,5 @@
 # Explainer for Multicast in Direct Sockets
 
-This proposal is an early design sketch by IWA team to describe the problem below and solicit
-feedback on the proposed solution. It has not been approved to ship in Chrome.
-
-## Participate
-- https://github.com/explainers-by-googlers/Multicast-in-Direct-Sockets/issues
-
 ## Table of Contents
 
 <!-- Update this table of contents by running `npx doctoc README.md` -->
