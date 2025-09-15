@@ -1,6 +1,6 @@
 # How to use the Multicast in Direct Sockets API
 
-The Web Smart Card API is currently available in Chrome 142 and later on Desktop platforms (ChromeOS, Windows, Linux, MacOS) behind a flag.
+The Multicast In Direct Sockets API is currently available in Chrome 142 and later on Desktop platforms (ChromeOS, Windows, Linux, MacOS) behind a flag.
 
 1) Ensure Chrome is updated to 142.
 2) Navigate to `chrome://flags` and enable `Multicast in Direct Sockets` (remember to restart the browser as prompted).
