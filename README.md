@@ -1,5 +1,7 @@
 # Explainer for Multicast in Direct Sockets
 
+The working repository is moved to https://github.com/WICG/direct-sockets
+
 ## Table of Contents
 
 <!-- Update this table of contents by running `npx doctoc README.md` -->
